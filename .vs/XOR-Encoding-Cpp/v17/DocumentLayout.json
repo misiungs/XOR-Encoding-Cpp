@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\misiu\\source\\repos\\XOR-Encoding-Cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9115B1B5-311A-4A4A-B1F8-DB8153180BF9}|XOR-Encoding-Cpp\\XOR-Encoding-Cpp.vcxproj|C:\\Users\\misiu\\source\\repos\\XOR-Encoding-Cpp\\XOR-Encoding-Cpp\\XOR-Encoding-Cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9115B1B5-311A-4A4A-B1F8-DB8153180BF9}|XOR-Encoding-Cpp\\XOR-Encoding-Cpp.vcxproj|solutionrelative:XOR-Encoding-Cpp\\XOR-Encoding-Cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XOR-Encoding-Cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\misiu\\source\\repos\\XOR-Encoding-Cpp\\XOR-Encoding-Cpp\\XOR-Encoding-Cpp.cpp",
+              "RelativeDocumentMoniker": "XOR-Encoding-Cpp\\XOR-Encoding-Cpp.cpp",
+              "ToolTip": "C:\\Users\\misiu\\source\\repos\\XOR-Encoding-Cpp\\XOR-Encoding-Cpp\\XOR-Encoding-Cpp.cpp",
+              "RelativeToolTip": "XOR-Encoding-Cpp\\XOR-Encoding-Cpp.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T12:44:48.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
